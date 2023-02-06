@@ -16,6 +16,8 @@ body {
   border-radius: .25rem;
   box-shadow: 0 0 .3rem rgba(0, 0, 0, .7);
   padding: .5rem .25rem;
+  width: 22.5rem;
+  max-width: 90%;
 }
 
 #cp-error {
